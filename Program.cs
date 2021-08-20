@@ -6,7 +6,7 @@ namespace Practical
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter username");
+            Console.WriteLine("Enter firstname");
         }
     }
 }
